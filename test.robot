@@ -6,8 +6,8 @@ Library          SeleniumLibrary
 
 ${url}                   https://auth.emag.ro/user/login
 ${browser}               Chrome
-${userLogin}             mircea.casapu@gmail.com
-${passLogin}             parolacontgoogle
+${userLogin}             //add here
+${passLogin}             //add here
 ${searchProductQuery}    Solid State Drive (SSD) Kingston A400, 480GB, 2.5", SATA III
 
 *** Test Cases ***
